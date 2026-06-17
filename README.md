@@ -1,2 +1,10 @@
-# Data-Preprocessing
-Data cleaning, preprocessing, feature engineering, and exploratory data analysis using Python.
+# Data Preprocessing
+
+This repository contains data cleaning and preprocessing techniques.
+
+## Topics
+- Missing Values
+- Outlier Detection
+- Encoding
+- Feature Scaling
+- Train Test Split
